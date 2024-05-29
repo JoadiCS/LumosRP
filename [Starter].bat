@@ -1,7 +1,7 @@
 @ECHO OFF
 color 09
 timeout /t 2 /nobreak >nul
-ECHO Starting Mercy Framework...
+ECHO Starting Lumos...
 timeout /t 3 /nobreak >nul
 color 07
 cls
