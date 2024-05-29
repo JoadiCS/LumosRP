@@ -1,0 +1,15 @@
+\[assets]
+\cache/*
+\artifacts
+\cfg_dev
+\[dev]
+\[Starter_Dev].bat
+\vMenu
+\db
+\[Maps]
+\racingstuff
+.replxx_history
+*.rar
+\txData
+start_6683_default.bat
+.fleet
